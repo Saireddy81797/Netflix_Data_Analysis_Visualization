@@ -44,24 +44,21 @@ All graphs are generated using Matplotlib and Seaborn, with pauses for each plot
 ### 1. Distribution of Content by Type
 ![Distribution of Content](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Distributionof%20ContentbyType.png)
 
-### 2. Top 10 Popular Movie Genres on Netflix
-![Top 10 Popular Movie Genres](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Top%2010%20Popular%20Movie%20Genres%20on%20Netflix.png)
-
-### 3. Rating Distribution on Netflix
+### 2. Rating Distribution on Netflix
 ![Rating Distribution](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Rating%20Distribution%20on%20Netflix.png)
 
-### 4. Top 10 Popular TV Show Genres on Netflix
+### 3. Top 10 Popular TV Show Genres on Netflix
 ![Top 10 Popular TV Show Genres](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Top%2010%20Popular%20TV%20Show%20Genres%20on%20Netflix.png)
 
 
-### 5. Content Added to Netflix Over the Years
+### 4. Content Added to Netflix Over the Years
 ![Content Added to Netflix](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Content%20Added%20to%20Netflix%20Over%20the%20Years.png)
 
-### 6. Monthly Release Pattern on Netflix
+### 5. Monthly Release Pattern on Netflix
 ![Monthly Releases](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Monthly%20Release%20Pattern%20on%20Netflix.png)
 
-### 7. Yearly Content Release Pattern on Netflix
+### 6. Yearly Content Release Pattern on Netflix
 ![Yearly Releases](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Yearly%20Content%20Release%20Pattern%20on%20Netflix.png)
 
-### 8. Top 10 Countries with Most Content on Netflix
+### 7. Top 10 Countries with Most Content on Netflix
 ![Top 10 Countries](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Top%2010%20Countries%20with%20Most%20Content%20on%20Netflix.png)
