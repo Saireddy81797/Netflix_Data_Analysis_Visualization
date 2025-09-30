@@ -23,7 +23,6 @@ Analyze Netflix shows data using Python libraries like Pandas, Seaborn, Matplotl
   - Top 10 Countries with Most Content on Netflix
   - Top 10 Directors on Netflix
 
-    
 ## 🔍 Key Insights
 - Netflix has more Movies than TV Shows
 - Top genres: Drama, Comedy, Documentaries
@@ -35,42 +34,36 @@ Analyze Netflix shows data using Python libraries like Pandas, Seaborn, Matplotl
 All graphs are generated using Matplotlib and Seaborn, with pauses for each plot to allow full view.
 
 🔮 Future Work
-Add ML-based recommendation engine
-
-Build interactive dashboards (Tableau/Power BI)
-
-Use clustering and time series forecasting
-
-Build web app with Streamlit or Flask
-
+- Add ML-based recommendation engine
+- Build interactive dashboards (Tableau/Power BI)
+- Use clustering and time series forecasting
+- Build web app with Streamlit or Flask
 
 ## 📸 Visual Output
 
 ### 1. Distribution of Content by Type
-![Distribution of Content](Distribution_of_Content_by_Type.png)
+![Distribution of Content](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Distribution_of_Content_by_Type.png)
 
 ### 2. Top 10 Popular Movie Genres on Netflix
-![Top 10 Popular Movie Genres](Screenshot_446.png)
+![Top 10 Popular Movie Genres](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Screenshot_446.png)
 
 ### 3. Rating Distribution on Netflix
-![Rating Distribution](Screenshot_447.png)
+![Rating Distribution](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Screenshot_447.png)
 
 ### 4. Top 10 Popular TV Show Genres on Netflix
-![Top 10 Popular TV Show Genres](Screenshot_449.png)
+![Top 10 Popular TV Show Genres](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Screenshot_449.png)
 
 ### 5. Content Added to Netflix Over the Years
-![Content Added to Netflix](Screenshot_450.png)
+![Content Added to Netflix](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Screenshot_450.png)
 
 ### 6. Monthly Release Pattern on Netflix
-![Monthly Releases](Screenshot_451.png)
+![Monthly Releases](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Screenshot_451.png)
 
 ### 7. Yearly Content Release Pattern on Netflix
-![Yearly Releases](Screenshot_452.png)
+![Yearly Releases](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Screenshot_452.png)
 
 ### 8. Top 10 Countries with Most Content on Netflix
-![Top 10 Countries](Screenshot_451.png)
+![Top 10 Countries](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Screenshot_451.png)
 
 ### 9. Top 10 Directors on Netflix
-![Top 10 Directors](Screenshot_451.png)
-
-
+![Top 10 Directors](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Screenshot_451.png)
