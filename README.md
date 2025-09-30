@@ -1,4 +1,4 @@
-# Netflix Data: Cleaning, Analysis, and Visualization 🎬📊
+# Netflix Data: Cleaning, Analysis, and Visualization
 
 ## 📌 Project Objective
 Analyze Netflix shows data using Python libraries like Pandas, Seaborn, Matplotlib, and WordCloud. Visualize insights such as top genres, content trends, and director stats.
