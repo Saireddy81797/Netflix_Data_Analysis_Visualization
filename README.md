@@ -47,7 +47,7 @@ Build web app with Streamlit or Flask
 ## 📸 Visual Output
 
 ### 1. Distribution of Content by Type
-![Distribution of Content](DistributionofContentbyType.png)
+![Distribution of Content](DistributionofContentbyType%20.png)
 
 ### 2. Top 10 Popular Movie Genres on Netflix
 ![Top 10 Popular Movie Genres](Screenshot%20(446).png)
