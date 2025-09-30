@@ -45,13 +45,14 @@ All graphs are generated using Matplotlib and Seaborn, with pauses for each plot
 ![Distribution of Content](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Distributionof%20ContentbyType.png)
 
 ### 2. Top 10 Popular Movie Genres on Netflix
-![Top 10 Popular Movie Genres](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Screenshot_446.png)
+![Top 10 Popular Movie Genres](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Top%2010%20Popular%20Movie%20Genres%20on%20Netflix.png)
 
 ### 3. Rating Distribution on Netflix
-![Rating Distribution](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Screenshot_447.png)
+![Rating Distribution](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Rating%20Distribution%20on%20Netflix.png)
 
 ### 4. Top 10 Popular TV Show Genres on Netflix
-![Top 10 Popular TV Show Genres](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Screenshot_449.png)
+![Top 10 Popular TV Show Genres](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Top%2010%20Popular%20TV%20Show%20Genres%20on%20Netflix.png)
+
 
 ### 5. Content Added to Netflix Over the Years
 ![Content Added to Netflix](https://github.com/Saireddy81797/Netflix_Data_Analysis_Visualization/raw/main/Content%20Added%20to%20Netflix%20Over%20the%20Years.png)
